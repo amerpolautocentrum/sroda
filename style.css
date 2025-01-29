@@ -40,6 +40,18 @@ html, body {
     max-height: 100vh;
 }
 
+/* Ikona Facebooka */
+.social-icon {
+    width: 100px; /* Dopasuj wielkość */
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+/* Powiększenie ikony po najechaniu */
+.social-icon:hover {
+    transform: scale(1.1);
+}
+
 /* Przewijanie sekcjami */
 body {
     overflow-y: scroll;
