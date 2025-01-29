@@ -40,14 +40,6 @@ html, body {
     max-height: 100vh;
 }
 
-/* SVG "Znajdź nas" */
-.social-svg {
-    display: block;
-    width: 200px; /* Dostosuj do własnych potrzeb */
-    height: auto;
-    margin: 20px auto;
-}
-
 /* Przewijanie sekcjami */
 body {
     overflow-y: scroll;
